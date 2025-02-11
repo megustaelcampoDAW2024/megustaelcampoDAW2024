@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studyng DAW<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Laravel & VUE.js<br>⚡ Me gusta el campo ;)
+Pablo Bejarano Villalobos<br>🔭 I’m currently studyng DAW<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning Laravel & VUE.js<br>⚡ Me gusta el campo ;)
 
 
 ## 🌐 Socials:
